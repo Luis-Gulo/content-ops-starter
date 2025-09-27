@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Esta bem aqui
-    text: ''
+    text: |
+      Made by RYZEN7
     actions:
       - label: Começar (404)
         altText: ''
