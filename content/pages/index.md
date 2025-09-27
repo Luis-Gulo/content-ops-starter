@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Esta bem aqui
-    text: |
-      Made by RYZEN7
+    text: |+
+      <div style="text-align: left">Made by ***RYZEN7***</div>
+
     actions:
       - label: Começar (404)
         altText: ''
