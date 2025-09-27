@@ -8,8 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Esta bem aqui
-    text: |
-      u
+    text: ''
     actions:
       - label: Get started
         altText: ''
