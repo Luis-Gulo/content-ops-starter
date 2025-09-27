@@ -10,7 +10,7 @@ sections:
     subtitle: Esta bem aqui
     text: ''
     actions:
-      - label: Get started
+      - label: Começar (404)
         altText: ''
         url: /
         showIcon: false
